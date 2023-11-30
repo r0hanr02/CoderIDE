@@ -13,7 +13,7 @@ const Header = () => {
     return (
         <Container>
             <Toolbar>
-                <img src={logo} alt="logo" style={{ width: 40 }} />
+                <a><b>CoderIDE</b></a>
             </Toolbar>
         </Container>
     )
